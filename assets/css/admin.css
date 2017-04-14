@@ -1,0 +1,58 @@
+
+/** ----- admin : stylesheet ----- **/
+
+.wp-facebook-webmasters-wrap {
+    margin-top: 20px;
+    width: 60%;
+}
+.wp-facebook-webmasters-wrap .wp-facebook-webmasters-head {
+    background: #365899;
+    color: #fff;
+    padding: 8px 15px 10px 15px;
+    margin-right: 15px;
+}
+.wp-facebook-webmasters-wrap .wp-facebook-webmasters-body {
+    background: #f6f7f9;
+    margin-right: 15px;
+    border-bottom: 1px solid #c9ced4;
+    padding-top: 10px;
+}
+.wp-facebook-webmasters-wrap .wp-facebook-webmasters-body .wp-facebook-webmasters-item {
+    padding: 0px 15px 0px 15px;
+    margin-bottom: 10px;
+}
+.wp-facebook-webmasters-wrap .wp-facebook-webmasters-body .wp-facebook-webmasters-item span.item-label {
+    color: #42b72a;
+    display: inline-block;
+    width: 150px;
+}
+.wp-facebook-webmasters-wrap .wp-facebook-webmasters-body .wp-facebook-webmasters-item span.item-input {
+    display: inline-block;
+    margin-left: 5px;
+}
+.wp-facebook-webmasters-wrap .wp-facebook-webmasters-body .wp-facebook-webmasters-item span.item-input input {
+    padding: 0;
+    width: 380px;
+}
+.wp-facebook-webmasters-wrap .wp-facebook-webmasters-foot {
+    background: #fff;
+    padding: 8px 10px 7px 15px;
+    margin-right: 15px;
+}
+.wp-facebook-webmasters-wrap .wp-facebook-webmasters-foot a.wp-facebook-webmasters-link {
+    background: url(../images/DO_6UjJF122.png);
+    display: inline-block;
+    width: 170px;
+    height: 18px;
+    background-repeat: no-repeat;
+}
+.wp-facebook-webmasters-action {
+    margin-top: 20px;
+}
+.wp-facebook-webmasters-action input[type=submit] {
+    background: #4080ff;
+    border: 1px solid #4b7bdb;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+}
